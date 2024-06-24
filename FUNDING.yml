@@ -1,8 +1,7 @@
 # These are supported funding model platforms
 
 github:
-  - haya14busa # reviewdog author
-  # See contributors page and sponsor them directly if not listed here.
+  - reviewdog
 
 # Prefer github to directly contribute to each GitHub user.
 open_collective: reviewdog
